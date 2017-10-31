@@ -1,0 +1,11 @@
+{
+  "name": "hexo-gfycat",
+  "version": "0.1.0",
+  "description": "Gfycat embedding tag for hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests so far ¯\\_(ツ)_/¯\" && exit 1"
+  },
+  "author": "Krzysztof Zbicinski",
+  "license": "MIT"
+}
